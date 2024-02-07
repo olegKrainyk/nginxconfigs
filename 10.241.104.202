@@ -1,0 +1,8 @@
+server{
+    listen 10.241.104.202:443;
+
+    root /var/www/10.241.104.202;
+    index index.html;
+    
+    server_name 10.241.104.202;
+}
